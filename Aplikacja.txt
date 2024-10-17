@@ -19,3 +19,5 @@ public void logowanieMS() {
 public void logowanieMS() {
         System.out.println("Kliknij na przycisk przypominj haslo");
     }
+
+HUJNIA
